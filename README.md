@@ -15,7 +15,7 @@ within sports and computer vision domains.
 
 ## Project Goals
 
-TODO: FINISH README
+
 
 ## Dataset
 
@@ -38,7 +38,7 @@ well-suited for training a robust model that can generalize across real-world
 sports images. We applied preprocessing and data augmentation techniques to 
 enhance model performance and prevent overfitting.
 
-## Nodebook
+## Notebook
 
 ## Results
 
